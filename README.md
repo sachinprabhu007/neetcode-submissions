@@ -58,7 +58,7 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Settings
+## Settings  
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
